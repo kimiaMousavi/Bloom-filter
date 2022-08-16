@@ -14,11 +14,11 @@ So we can use this probabilistic data structure to break the symmetry among node
 	
 ## Technologies
 Project is created with:
-* Python 
+* Python3 
 	
 ## Setup
-To run this project;
+To run this project you need python3 and then execute following code:
 
 ```
-$ sudo apt install python3.8
+$ python3 example.py
 ```
