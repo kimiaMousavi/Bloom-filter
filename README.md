@@ -1,5 +1,4 @@
-# Bloom-filter
-Leader election with bloom filter.
+# Leader Election with Bloom Filter
 
 ## Table of contents
 * [General info](#general-info)
